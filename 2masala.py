@@ -56,22 +56,3 @@ print(obj.baho_olish(user2,3), )
 
 
 
-# class User:
-#     def __init__(self, name, roli,):
-#         self.name=name
-#         self.roli=roli
-#
-# class Exam:
-#     def __init__(self,owner,baholar):
-#         self.owner=owner
-#         self.__baholar=baholar
-#
-#     def baholar1(self,admin,natija):
-#         if admin.roli == "o'qituvchi":
-#             self.__baholar=natija
-#             return natija
-#
-# user1=User("Alijon","Talaba")
-# user2=User("Muhammadali","o'qituvchi")
-# baho=Exam(user1,4)
-# print(baho.baholar1(user1, 5))
